@@ -1,2 +1,5 @@
 # ART_GALLERY
-Online art gallery for falcongirl art... forever!
+
+## PURPOSE
+
+- Create a Website for FalconGirl4 to POST her digital art - FOREVER!
